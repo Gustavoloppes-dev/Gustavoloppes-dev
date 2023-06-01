@@ -32,10 +32,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width = 50px />   
           
 </div>
-          
-<div>
+<br>
+<!-- <div>
   
-</div>          
-          
-          
+  ![Loppes GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavoloppes-dev&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoloppes-dev&layout=donut&theme=radical&card_width=10&size_weight=0.9&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div> -->
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavoloppes-dev&show_icons=true&theme=radical" />
+</a>
+<a href="#">
+  <img height="193px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoloppes-dev&layout=donut&theme=radical&card_width=10&size_weight=0.9&count_weight=0.5" />
+</a>
+
 
