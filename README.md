@@ -5,8 +5,11 @@
 <h1 align="center">Olá <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Eu sou o Gustavo Lopes. </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=590&lines=Como+um+entusiasta+da+programa%C3%A7%C3%A3o+front-end%2C;sou+dedicado+a+criar+interfaces+atraentes+e+;interativas+que+proporcionem+%C3%B3timas+;experi%C3%AAncias+aos+usu%C3%A1rios.+Procuro+constantemente;+explorar+novas+t%C3%A9cnicas+e+ferramentas+para;projetar+experi%C3%AAncias+interativas+;que+agradem+os+usu%C3%A1rios." alt="Typing SVG" /></a>
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=590&lines=Como+um+entusiasta+da+programa%C3%A7%C3%A3o+front-end%2C;sou+dedicado+a+criar+interfaces+atraentes+e+;interativas+que+proporcionem+%C3%B3timas+;experi%C3%AAncias+aos+usu%C3%A1rios.+Procuro+constantemente;+explorar+novas+t%C3%A9cnicas+e+ferramentas+para;projetar+experi%C3%AAncias+interativas+;que+agradem+os+usu%C3%A1rios." alt="Typing SVG" /></a> -->
+<img src="https://github.com/AdityaKumar28/AdityaKumar28/blob/master/animation.gif">
+  
 </p>
+
 <br>
 
 -----
@@ -92,5 +95,7 @@
 <br>
 <br>
 <br>
+
+
 
 
