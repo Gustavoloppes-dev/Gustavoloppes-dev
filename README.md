@@ -19,7 +19,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
 - 🔍 Estou buscando ativamente uma oportunidade como Desenvolvedor Front-end.
-- 🚀 Atualmente estou estudando JavaScript
+- 🚀 Atualmente estou estudando Nextjs
 - 🤝 Estou sempre aberto a novas oportunidades e colaborações, então sinta-se à vontade para entrar em contato comigo!
 
 <br>
